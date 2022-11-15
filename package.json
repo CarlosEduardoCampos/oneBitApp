@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "App de pedidos para restalrante",
+  "main": "index.js",
+  "repository": "https://github.com/CarlosEduardoCampos/oneBitApp.git",
+  "author": "Carlos <carlos.admcode@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
